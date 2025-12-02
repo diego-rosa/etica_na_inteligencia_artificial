@@ -1,6 +1,6 @@
-# Fio da Meada: Reflexões com Nina da Hora
+# Sobre o site
 
-Este é um site simples desenvolvido para refletir sobre questões éticas na inteligência artificial, baseado no episódio do podcast "Fio da Meada" com Nina da Hora.
+Este é um site simples desenvolvido para refletir sobre questões éticas na inteligência artificial.
 
 ## Como visualizar
 
